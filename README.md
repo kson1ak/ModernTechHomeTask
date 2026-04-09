@@ -108,6 +108,11 @@ com/moderntech/ecommerce/
 
 
 ## Скриншоты
+<img width="1000" height="722" alt="image" src="https://github.com/user-attachments/assets/854c34b1-00d5-4ceb-aa07-f42264bce018" />
+<img width="889" height="615" alt="image" src="https://github.com/user-attachments/assets/24d4837a-dd91-404e-9fce-adde91024aad" />
+<img width="894" height="713" alt="image" src="https://github.com/user-attachments/assets/d30277d2-1694-4dd6-b66c-3259b454c9ea" />
+<img width="1375" height="663" alt="image" src="https://github.com/user-attachments/assets/97654d2d-c6e9-4155-b5ee-aec16e9b831d" />
+<img width="1011" height="793" alt="image" src="https://github.com/user-attachments/assets/a97dc743-d85d-43b5-a043-afab96e8b658" />
 
 
 
