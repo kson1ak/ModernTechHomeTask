@@ -99,6 +99,8 @@ File -> Open -> выбрать папку E-commerce
 
 ## ERD диаграмма
 
+<img width="1179" height="1258" alt="image" src="https://github.com/user-attachments/assets/beca7043-b028-45ad-ad54-1fef3efc7f9f" />
+
 ---
 ## Скриншоты
 <img width="1000" height="722" alt="image" src="https://github.com/user-attachments/assets/854c34b1-00d5-4ceb-aa07-f42264bce018" />
