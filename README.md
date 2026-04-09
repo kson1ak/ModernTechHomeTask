@@ -89,10 +89,6 @@ com/moderntech/ecommerce/
 - `PaymentStatus`: PENDING, SUCCESS, FAILED, REFUNDED, PROCESSING  
 ---
 
-
-
----
-
 ## Чек-лист студента
 
 - [x] ERD подготовлена и отражена в материалах сдачи  
