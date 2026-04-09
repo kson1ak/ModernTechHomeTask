@@ -90,10 +90,13 @@ com/moderntech/ecommerce/
 
 ## Запуск программы
 
-File -> Open -> выбрать папку E-commerce
-Убедиться, что Project SDK установлен на OpenJDK 25 (File -> Project Structure -> Project)
-Открыть src/com/moderntech/ecommerce/main/ECommerceApp.java
-Нажать Run (Shift+F10) или кликнуть зеленую стрелку рядом с main
+1) File -> Open -> выбрать папку E-commerce
+
+2) Убедиться, что Project SDK установлен на OpenJDK 25 (File -> Project Structure -> Project)
+
+3) Открыть src/com/moderntech/ecommerce/main/ECommerceApp.java
+
+4) Нажать Run (Shift+F10) или кликнуть зеленую стрелку рядом с main
 
 ---
 
