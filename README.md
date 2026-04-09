@@ -42,13 +42,12 @@
 
 | Средство | Где применять |
 |----------|----------------|
-| **Classes** | `Customer`, `Order`, `ShoppingCart` |
+| **Classes** | `Customer`, `Order`, `ShoppingCart`, `CreditCardPayment`, `DigitalWalletPayment`, `CashOnDelivery`, `OzonPayment`, `WildberriesPayment`, `ECommerceApp` |
 | **Records** | `Product`, `CartItem`, `OrderItem` |
-| **Interface** | `Payment` (marketplace / provider) |
-| **Sealed interface** | `PaymentMethod`  |
+| **Interface** | `Payment` |
+| **Sealed interface** | `PaymentMethod` |
 | **Enums** | `OrderStatus`, `ProductCategory`, `PaymentStatus` |
-| **Collections** | `ArrayList` and `HashMap` used meaningfully (catalog,
-
+| **Collections** | `ShoppingCart` (`List<CartItem>`), `Order` (`List<OrderItem>`), `ECommerceApp` (`List<Product>`), `createCatalog()` (`ArrayList`) |
 ---
 
 ## Структура пакетов (обязательно)
