@@ -89,20 +89,8 @@ com/moderntech/ecommerce/
 - `PaymentStatus`: PENDING, SUCCESS, FAILED, REFUNDED, PROCESSING  
 ---
 
-## Чек-лист студента
-
-- [x] ERD подготовлена и отражена в материалах сдачи  
-- [x] Все требуемые типы и пакеты присутствуют  
-- [x] Использованы records, sealed `PaymentMethod`, перечисления, `ArrayList`, `HashMap`  
-- [x] Реализованы `Payment`, `OzonPayment`, `WildberriesPayment` (Стратегия)  
-- [x] Проект компилируется и запускается; в README есть **скриншот**  
-- [x] Указаны **группа**, **команда**, **ФИО**, **порядковые номера** в письме и README  
-- [x] Сдано **до дедлайна**  
-
----
-
 ## Запуск приложения
-[инструкция]
+
 
 ## ERD диаграмма
 
